@@ -3,8 +3,8 @@
   Program Title : Demonstrating Identifier Rules in Java
   File Name: "IdentifierRules.java"
   
-  Programmer : Sathish Sarma
-  Contact Details : sathish.sarma@newinti.edu.my
+  Programmer : PhyoMinPaing
+  Contact Details : phyominpaing1222@gmail.com
   Date : 04 September 2025
   
  **********************************************************************/
@@ -13,10 +13,12 @@
 
 /*class switch{
 	String SwitchStatus = "On";
-	
+
 }*/
 //class {String SwitchStatus="On"};
-
+class Switch{
+	String SwitchStatus = "On";
+}
 public class IdentifierRules {
 	
   //  public static void 1start() { //
